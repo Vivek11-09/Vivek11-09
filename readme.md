@@ -40,6 +40,7 @@
   
 ## Connect Me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/VivekPa78896663)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vivek-pandey-0b855b17b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_._raj_pandey_._/)
+(https://dcbadge.vercel.app/api/shield/https://discord.gg/jjxmcUvB))
 ## SPOTIFY
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lz5p7jnb5pqaq2e23kezpuc3hq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ## Things I am passionate about
