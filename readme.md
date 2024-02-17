@@ -15,9 +15,9 @@
 
 ## Skills And Work
 
-- Learning Android Development 
-- Languages : Python, C, Java, C#,C++
-- Learning **Javascript**
+- Learning Android Development & IOS Development
+- Languages : Python, Java ,C++ ,Flutter
+- Learning **A.I & M.L**
 
 
 
