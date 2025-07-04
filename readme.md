@@ -77,8 +77,7 @@ Always building, always learning, always leveling up ⚡
 
 ## 🎧 Now Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lz5p7jnb5pqaq2e23kezpuc3hq&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lz5p7jnb5pqaq2e23kezpuc3hq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 ## 📊 GitHub Stats
