@@ -4,7 +4,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=HYDRAEZIO&color=orange)
+![](https://komarev.com/ghpvc/?username=Vivek11-09&color=orange)
 
 ## Mindset
 - 🔭 I’m currently working on **Java**
@@ -52,10 +52,10 @@
 
 <div align="center">
 
-[![Vivek Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYDRAEZIO&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Vivek Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek11-09&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYDRAEZIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek11-09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HYDRAEZIO&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vivek11-09&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
